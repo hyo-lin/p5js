@@ -63,7 +63,7 @@ function draw() {
   triangle(x12,y12,x8,y8,x11,y11);
   triangle(x7,y7,x11,y11,x12,y12);
   triangle(x7,y7,x8,y8,x12,y12);
-  fill('#091859')
+  fill('#0B174C')
   triangle(x8, y8, x13, y13, x14, y14);
   fill('#122576')
   triangle(x8, y8, x12, y12, x14, y14);
@@ -85,13 +85,13 @@ function draw() {
   triangle(x11, y11, x18, y18, x21, y21);
   fill('#28277A')
   triangle(x19, y19, x18, y18, x21, y21);
-  fill('#7CACD7')
+  fill('#6994C2')
   triangle(x16, y16, x17, y17, x22, y22);
   fill('#4765A4')
   triangle(x22, y22, x17, y17, x23, y23);
-  fill('#3E4F98')
+  fill('#4F677A')
   triangle(x21, y21, x17, y17, x23, y23);
-  fill('#3E4F98')
+  fill('#4B6397')
   triangle(x21, y21, x17, y17, x23, y23);
   fill('#325671')
   triangle(x21, y21, x23, y23, x24, y24);
