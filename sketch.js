@@ -33,7 +33,7 @@ function draw() {
   let x16 = 582, y16 = 149;
   let x17 = 677, y17 = 163;
   let x18 = 755, y18 = 269;
-  let x19 = 819, y19 = 267;
+  let x19 = 818.7, y19 = 265;
   let x20 = 848, y20 = 320;
   let x21 = 757, y21 = 230;
   let x22 = 671, y22 = 117;
@@ -79,9 +79,9 @@ function draw() {
   triangle(x19, y19, x14, y14, x18, y18);
   fill('#4F506E')
   triangle(x19, y19, x14, y14, x20, y20);
-  fill('#5C7ED6')
+  fill('#6784D2')
   triangle(x11, y11, x17, y17, x21, y21);
-  fill('#5350D2')
+  fill('#4854C0')
   triangle(x11, y11, x18, y18, x21, y21);
   fill('#28277A')
   triangle(x19, y19, x18, y18, x21, y21);
