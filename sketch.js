@@ -23,9 +23,14 @@ function draw() {
   let x5 = 591, y5 = 208; 
   let x6 = 547, y6 = 254;
   let x7 = 674, y7 = 309;
-  let x8 = 707.6, y8 = 334.9;
+  let x8 = 707.6, y8 = 335;
   let x9 = 643.9, y9 = 360.5;
-  
+  let x10 = 591, y10 = 208;
+  let x11 = 653, y11 = 229;
+  let x12 = 697, y12 = 272;
+  let x13 = 753, y13 = 379;
+  let x14 = 786, y14 = 327;
+  let x15 = 786, y15 = 327;
   
   // 삼각형 그리기
   fill('#EFCCB8'); // 삼각형 색상 설정
@@ -38,8 +43,20 @@ function draw() {
   triangle(x3, y3, x4, y4, x7, y7);
   fill('#C69F85')
   triangle(x7, y7, x8, y8, x9, y9);
-  
-  
-  
+  fill('#A4BEE3')
+  triangle(x6, y6, x4, y4, x10, y10);
+  fill('#D1E1F8')
+  triangle(x11, y11, x4, y4, x10, y10);
+  fill('#A5B3ED')
+  triangle(x11, y11, x4, y4, x7, y7);
+  fill('#7786C1')
+  triangle(x7,y7,x8,y8,x11,y11);
+  triangle(x12,y12,x8,y8,x11,y11);
+  triangle(x7,y7,x11,y11,x12,y12);
+  triangle(x7,y7,x8,y8,x12,y12);
+  fill('#091859')
+  triangle(x8, y8, x13, y13, x14, y14);
+  fill('#122576')
+  triangle(x8, y8, x12, y12, x14, y14);
 
 }
