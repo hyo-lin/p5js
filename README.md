@@ -1,9 +1,9 @@
 ### 🎨 p5.js Triangle Art Project
 ##🖼️ 프로젝트 소개 <br>
-이 프로젝트는 사운드디자인 수업에서 p5.js를 활용하여 배경 이미지를 불러오고, 다양한 색상의 삼각형 도형을 배치해 그림의 색감을 추상적으로 표현합니다. <br> 단순한 도형만으로도 원본 이미지의 분위기를 재해석할 수 있는 방법을 보여줍니다.
+이 프로젝트는 사운드디자인 수업에서 p5.js를 활용하여 배경 이미지를 불러오고, 다양한 색상의 삼각형 도형을 배치해 그림의 색감을 추상적으로 표현합니다.<br> 단순한 도형만으로도 원본 이미지의 분위기를 재해석할 수 있는 방법을 보여줍니다.
 
 
-<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/579d9fce-1651-4d26-a671-0b52058d8426" />
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/579d9fce-1651-4d26-a671-0b52058d8426" /> <br>
 
 
 ##📝 주요 기능<br>
